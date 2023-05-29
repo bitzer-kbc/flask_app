@@ -2,7 +2,7 @@
 # $ conda create --name <env> --file <this file>
 # platform: win-64
 # ca-certificates=2023.01.10=haa95532_0
-click=8.0.4=py39haa95532_0
+# click=8.0.4=py39haa95532_0
 colorama=0.4.6=py39haa95532_0
 flask=2.2.2=py39haa95532_0
 gunicorn=20.1.0=pypi_0
